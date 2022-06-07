@@ -1,1 +1,2 @@
-# e-comerce
+# e-comerce GeekShopping
+## Desenvolvido para estudos com C# e microserviços
